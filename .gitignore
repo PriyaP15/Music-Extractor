@@ -1,0 +1,13 @@
+# Environment file with credentials
+.env
+
+# Folder with downloaded playlists
+Playlists/
+
+# Virtual environment
+spotify_env/
+
+# Python cache
+__pycache__/
+*.pyc
+.cache/
